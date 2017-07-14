@@ -1,0 +1,11 @@
+"name": "edmundspriede/kls_app",
+    "description": "yii-rights fork",
+    "keywords": ["erp","yii","phundament"],
+    "type": "yii-extension",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Chrisu83",
+            "email": ""
+        }
+    ]
