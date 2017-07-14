@@ -1,6 +1,7 @@
-"name": "edmundspriede/yii-rights",
+{
+    "name": "edmundspriede/yii-rights",
 
-"description": "yii-rights fork",
+   "description": "yii-rights fork",
     "keywords": ["erp","yii","phundament"],
     "type": "yii-extension",
     "license": "BSD-2-Clause",
@@ -10,3 +11,4 @@
             "email": ""
         }
     ]
+}    
